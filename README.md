@@ -3,6 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -19,9 +20,22 @@ In this challenge I had to :
 - we got font-sizes, colors, font-families for each section
 - also we got all how our page should look like
 
-### Links
 
-- This course you can find: [on this webiste](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+### Screenshot
+
+![mobile](design/ss-mobile.png)
+![mobile-nav-bar](design/ss-mobile-open.png)
+![tablet](design/ss-tablet.png)
+![tablet-mid](design/ss-tablet-mid.png)
+![desktop-bottom](design/ss-desktop-bottom.png)
+![desktop-top](design/ss-desktop.png)
+
+### Links
+- Solution URL: [from gitHub](https://github.com/Holllyyyy/responsive-layouts-final-challenge)
+- Live Site URL: [from netlify](https://timely-concha-d7c428.netlify.app/)
+- My all progress, all challenges you can find here: [https://github.com/Holllyyyy/conquering-responsive-layouts](https://github.com/Holllyyyy/conquering-responsive-layouts)
+- This course you can find here: [https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+
 
 ## My process
 
